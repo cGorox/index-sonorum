@@ -1,0 +1,89 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #210;
+	font-family: sans-serif;
+}
+
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	font-family: "Times New Roman", Times, serif;
+	color: #ca8;
+	padding: 2px 6px;
+	border-radius: 16px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.genero {
+	background-color: #421;
+	padding: 8px;
+	margin: 8px;
+	border-radius: 16px;
+}
+
+h2 {
+	background-color: #210;
+	color: #ca8;
+	text-align: center;
+	padding: 2px 6px;
+	border-radius: 16px;
+}
+
+.subgenero {
+	background-color: #642;
+	padding: 8px;
+	margin: 8px;
+	border-radius: 16px;
+}
+
+h3 {
+	background-color: #421;
+	color: #ca8;
+	padding: 2px 6px;
+	border-radius: 16px;
+}
+
+.subsub {
+	background-color: #864;
+	padding: 8px;
+	margin: 8px;
+	border-radius: 16px;
+}
+
+h4 {
+	background-color: #642;
+	padding: 2px 6px;
+	border-radius: 16px;
+}
+
+.artista {
+	background-color: #a86;
+	padding: 8px;
+	margin: 8px;
+	border-radius: 16px;
+}
+
+h5 {
+	background-color: #864;
+	padding: 2px 6px;
+	border-radius: 16px;
+}
+
+h6 {
+	background-color: #eca;
+	padding: 2px 6px;
+	border-radius: 16px;
+}
+
+p {
+	background-color: #753;
+	padding: 2px 6px;
+	border-radius: 16px;
+}
